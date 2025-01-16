@@ -1,4 +1,4 @@
-# **WConcept**
+# **kakaofriends**
 >*Web*
 
 이 프로젝트는 CSS와 jQuery를 활용하여 동적 내비게이션 메뉴와 이미지 슬라이더 기능을 구현하였습니다.
