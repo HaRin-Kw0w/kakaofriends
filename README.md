@@ -8,10 +8,10 @@
 ## 📑View
 https://harin-kw0w.github.io/kakaofriends/
 
-## Skills
+## 🛠Skills
 HTML5, CSS3, jQuery, SliderJS 등 
 
-## 주요특징
+## 📣주요특징
 * jQuery로 슬라이더 기능 구현 및 자동 슬라이딩
 * 고정형 내비게이션 바(Fixed Navigation Bar) 구현을 통해 사용자 편의성 극대화
 * jQuery를 이용한 마우스 오버 및 포커스 상태에서 내비게이션 메뉴 활성화 효과 추가
